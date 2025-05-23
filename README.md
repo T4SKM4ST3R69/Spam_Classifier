@@ -55,4 +55,6 @@ cd Spam_Classifier
 pip install -r requirements.txt
 ```
 
+Dataset - https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
+
 
