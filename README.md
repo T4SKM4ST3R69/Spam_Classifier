@@ -27,7 +27,7 @@ This project implements a complete spam detection pipeline including:
 ## Project Structure
 
 ```
-spam-detection/
+Spam_Classifier/
 │
 ├── spam.csv                         
 ├── streamlit_app.py    
@@ -36,7 +36,7 @@ spam-detection/
 ├── tfidf_vectorizer.joblib
 ├── logistic_regression_model.joblib
 └── naive_bayes_model.joblib
-
+└── Spam_or_ham.ipynb
 ```
 
 
