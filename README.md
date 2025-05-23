@@ -45,8 +45,8 @@ spam-detection/
 1. **Clone the repository**
 
 ```bash
-git clone <repository-url>
-cd spam-detection
+git clone https://github.com/T4SKM4ST3R69/Spam_Classifier
+cd Spam_Classifier
 ```
 
 2. **Install dependencies**
